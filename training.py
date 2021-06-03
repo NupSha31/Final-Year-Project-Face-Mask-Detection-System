@@ -24,7 +24,7 @@ import os
 
 
 # import the dataset
-imagePaths = list(paths.list_images('...\...\dataset'))
+imagePaths = list(paths.list_images('...\\...\\dataset'))
 data = []
 labels = []
 # loop over the image paths
