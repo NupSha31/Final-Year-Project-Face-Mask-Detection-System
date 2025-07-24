@@ -1,6 +1,6 @@
 # Face Mask Detection System
 
-B.Tech final year major project submitted by Shaleen Singh and Pooja Pandey. 
+B.Tech final year major project submitted by Shaleen Singh and Pooja Pandey in July 2021. 
 
 # 📌 Abstract
 
